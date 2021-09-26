@@ -24,8 +24,7 @@ cg = CoinGeckoAPI()
 ```
 
 ### Examples
-##### API documentation
-https://www.coingecko.com/api/docs/v3
+API documentation https://www.coingecko.com/en/api/documentation. On this site you can view detailed information as well as other HTTPS requests.
 
    **/coins/markets** (List all supported coins price, market cap, volume, and market related data)
     ```python 
