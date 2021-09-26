@@ -26,6 +26,7 @@ cg = CoinGeckoAPI()
 ### Examples
 Usage examples:
 ```python
+
 ### API documentation
 https://www.coingecko.com/api/docs/v3
 ```
