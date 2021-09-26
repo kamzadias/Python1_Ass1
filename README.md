@@ -24,14 +24,12 @@ cg = CoinGeckoAPI()
 ```
 
 ### Examples
-Usage examples:
-```python
 
-### API documentation
+
+###### API documentation
 https://www.coingecko.com/api/docs/v3
-```
-- *coins*
-  - **/coins/markets** (List all supported coins price, market cap, volume, and market related data)
+
+**/coins/markets** (List all supported coins price, market cap, volume, and market related data)
     ```python 
     cg.get_coins_markets()
     ```
