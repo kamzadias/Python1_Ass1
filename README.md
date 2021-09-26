@@ -28,6 +28,5 @@ API documentation https://www.coingecko.com/en/api/documentation. On this site y
 
    **/coins/markets** (List all supported coins price, market cap, volume, and market related data)
    
-    ```python 
     cg.get_coins_markets()
-    ```
+    
